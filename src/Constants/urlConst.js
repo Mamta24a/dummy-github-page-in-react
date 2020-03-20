@@ -1,0 +1,1 @@
+export let gitHubApiDomain = "https://api.github.com"
